@@ -1,7 +1,7 @@
 # Deep Learning Image Classification Examples
 
 ## Overview
-This repository contains simple examples demonstrating the application of deep learning to both binary and multiple image classification tasks. The examples are implemented using Jupyter notebooks.
+This repository contains simple examples demonstrating the application of deep learning to both binary and multiple image classification tasks. The examples are implemented using Jupyter notebooks. Please note that content of the Jupyter notebook is in Portuguese. 
 
 ## Project Structure
 - `cats-vs-dogs-binaryclassify-dl.ipynb`: Jupyter notebook for binary classification using images of cats and dogs.
